@@ -1,7 +1,7 @@
 Donglin Liu
 
 
-![picture.png](picture.png)
+![picture.jpg](picture.jpg)
 
 
 2021
